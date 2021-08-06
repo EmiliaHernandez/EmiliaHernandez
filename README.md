@@ -8,3 +8,6 @@
 - 📫 How to reach me: emilia.b.hernandez@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: In high school I got a national award for a video game I made using Scratch :smile_cat:
+
+Check me out on:
+[Itch.io!](https://emiliabh.itch.io/)
