@@ -3,7 +3,7 @@
 - :computer: I'm pursuing a Digital Media Major in the Web & Social Platforms Track
 - 🔭 I’m currently working as a Web Designer for UCF and Design intern at CF+
 - :coffee: I’m currently learning Javascript
-- 💬 Ask me about my game jam submissions
+- 💬 I'm looking for a summer internship
 - 📫 How to reach me: emilia.b.hernandez@gmail.com
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: In high school I got a national award for a video game I made using Scratch :smile_cat:
