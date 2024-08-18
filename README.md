@@ -1,6 +1,6 @@
 ### Hi there, I'm Emilia 👋
 
-- :computer: I'm recieved a B.A in Digital Media in the Web & Social Platforms Track
+- :computer: I recieved a B.A in Digital Media in the Web & Social Platforms Track
 - 🔭 I’m currently working as a Web Designer for Ever.Ag
 - :coffee: I’m currently learning Javascript
 - 📫 How to reach me: emilia.b.hernandez@gmail.com
