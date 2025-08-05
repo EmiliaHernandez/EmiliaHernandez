@@ -3,7 +3,7 @@
 - :computer: B.A in Digital Media in the Web & Social Platforms Track
 - 🔭 I’m currently working as a Web Designer for Ever.Ag
 - :coffee: I’m currently improving my Tailwindcss skills
-- 📫 How to reach me: emilia.b.hernandez@gmail.com
+- 📫 How to reach me: Message me on [LinkedIn!](https://www.linkedin.com/in/emilia-hernandez-560489159/)
 - 😄 Pronouns: She/her/hers
 
 Check me out on my [Portfolio](https://emiliahhernandez.com)
